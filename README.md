@@ -1,1 +1,1 @@
-# jaraxxusSounds
+Using TOP guidelines and the use of Blizzard Entertainments sound files, I made a jaraxxus sound bot. I  own none of the sounds and I do not use them for my own gain, only primarily to help me learn js.
